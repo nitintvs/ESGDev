@@ -1,0 +1,22 @@
+.signleBox{
+    overflow: hidden;
+}
+.bold600{
+    font-weight: 600;
+}
+.cardTitle{
+    color: #343a40 !important;
+    margin-bottom: 0.75rem !important;
+    text-transform: capitalize !important;
+    font-weight: 500 !important;
+    font-size: 1.125rem !important;
+    margin-top: 20px !important;
+}
+.cardTitleSub{
+    color: #343a40 !important;
+    margin-bottom: 0.75rem !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+    margin-top: 20px !important;
+}
+

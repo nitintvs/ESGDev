@@ -1,0 +1,51 @@
+.deleteYearIcon{
+    position: relative;
+    right: 0;
+    background-color: #00a0da;
+    width: 30px;
+    height: 30px;
+    border-radius: 7px;
+    text-align: center;
+    color: #ffffff;
+    z-index: 99999;
+    cursor: pointer;
+    float: right;
+}
+.overLay{
+    z-index: 99999 !important;
+}
+.modelFooter{
+    background-color: #ffffff;
+}
+.cancel{
+    background-color: #edf2f7;
+    color: #000000;
+}
+.successConfirm{
+    position: fixed;
+    width: 100%;
+    left: 0;
+    z-index: 999999999999;
+    text-align: center;
+    background-color: #000000e6;
+    top: 0;
+    height: 100%;
+    overflow: hidden;
+}
+.centerBox{
+    color: #ffffff;
+    position: relative;
+    top: 30%;
+    transform: translateY(0%);
+    background: linear-gradient(to right, #da8cff, #9a55ff);
+    width: 100%;
+    display: block;
+    max-width: 320px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+.deleteConfirm{
+    background-color: #00a0da !important;
+    color: #ffffff !important;
+}

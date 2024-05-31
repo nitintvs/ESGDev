@@ -1,0 +1,6 @@
+.verticalAlign{
+    transform: translateY(-50%);
+}
+.modelFooter{
+    background-color: transparent !important;
+}

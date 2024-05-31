@@ -1,0 +1,35 @@
+.signleBox{
+    overflow: hidden;
+}
+.bold600{
+    font-weight: 600;
+}
+.cardTitle{
+    color: #343a40 !important;
+    margin-bottom: 0.75rem !important;
+    text-transform: capitalize !important;
+    font-weight: 500 !important;
+    font-size: 1.125rem !important;
+    margin-top: 20px !important;
+}
+.cardTitleSub{
+    color: #343a40 !important;
+    margin-bottom: 0.75rem !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+    margin-top: 20px !important;
+}
+
+.metricTitle{
+    font-family: Inter, sans-serif !important;
+    font-size: 14px !important;
+    line-height: 20px !important;
+    font-weight: 600 !important;
+    max-height: 3.2em;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    min-height: 3.2em;
+    color: #1e1e1e !important;
+}

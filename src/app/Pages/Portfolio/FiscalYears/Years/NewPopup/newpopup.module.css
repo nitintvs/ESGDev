@@ -1,0 +1,20 @@
+.verticalAlign{
+    transform: translateY(-50%);
+}
+.modelFooter{
+    background-color: transparent !important;
+}
+.overLay{
+    z-index: 99999 !important;
+}
+.contentZindex{
+    z-index: 999999 !important;
+}
+.deleteConfirm{
+    background-color: #00a0da !important;
+    color: #ffffff !important;
+}
+.cancel{
+    background-color: #edf2f7;
+    color: #000000;
+}

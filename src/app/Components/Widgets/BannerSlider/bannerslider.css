@@ -1,0 +1,25 @@
+.slide{
+  height: 180px;
+  background-size: 100%;
+  position: relative;
+  background-position: 0px -30px;
+}
+.slide h3{
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #ffffff;
+  font-family: Inter, sans-serif !important;
+  font-size: 30px !important;
+  line-height: 48px;
+  font-weight: 700;
+}
+
+.slick-dots li button:before {
+  font-size: 12px;
+  color: #1da0f2;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #00a0da;
+}

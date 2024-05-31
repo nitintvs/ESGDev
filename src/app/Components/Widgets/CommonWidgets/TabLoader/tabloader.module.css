@@ -1,0 +1,8 @@
+.tabLoader{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #000000a8;
+    z-index: 9;
+    text-align: center;
+}

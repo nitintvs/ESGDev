@@ -1,0 +1,7 @@
+.navB {
+  width: 100%;
+  display: block;
+}
+.cap {
+  text-transform: capitalize;
+}

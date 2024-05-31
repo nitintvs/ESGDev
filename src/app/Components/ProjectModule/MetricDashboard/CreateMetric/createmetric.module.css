@@ -1,0 +1,24 @@
+.verticalAlign{
+    transform: translateY(-50%);
+}
+.modelFooter{
+    background-color: transparent !important;
+}
+.overLay{
+    z-index: 99999 !important;
+}
+.contentZindex{
+    z-index: 999999 !important;
+}
+.frmLabel{
+    width: 50%;
+}
+.successMessage{
+    width: 100%;
+    background-color: #00aae0;
+    color: #ffffff;
+    padding: 10px 10px;
+    margin: 30px 0 0px 0px;
+    font-size: 18px;
+    font-family: calibri;
+}

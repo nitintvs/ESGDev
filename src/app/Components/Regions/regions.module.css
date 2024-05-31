@@ -1,0 +1,50 @@
+.customHeadingH3{
+    color: #343a40 !important;
+    margin-bottom: 0.75rem !important;
+    text-transform: capitalize !important;
+    font-weight: 500 !important;
+    font-size: 1.125rem !important;
+    margin-top: 20px;
+}
+.clearfix{
+    clear: both;
+}
+.teamLink{
+    color: #0056b3 !important;
+}
+.designation{
+    font-size: 12px;
+}
+.clearfix{
+    clear: both;
+}
+.flagImage{
+    display: inline-block !important;
+    width: 100% !important;
+    height: auto !important;
+    vertical-align: middle !important;
+}
+.flagContainer{
+    width: 104px;
+    height: 70px;
+}
+.flagContainer::after {
+    content: ''; /* Required for pseudo-elements */
+    position: absolute; /* Positioning the pseudo-element */
+    top: 0;
+    width: 3px; /* Adjust the width of the shadow as needed */
+    height: 100%;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.2), transparent); /* Gradient for the shadow effect */
+    pointer-events: none; /* Ensures the pseudo-element doesn't interfere with mouse events */
+}
+.countryName{
+    float: left !important;
+    width: 100% !important;
+    max-width: 160px !important;
+}
+.mainProperty {
+}
+
+.tabsGroup {
+  font-size: 14px;
+}

@@ -1,0 +1,12 @@
+.verticalAlign{
+    transform: translateY(-50%);
+}
+.modelFooter{
+    background-color: transparent !important;
+}
+.overLay{
+    z-index: 99999 !important;
+}
+.contentZindex{
+    z-index: 999999 !important;
+}

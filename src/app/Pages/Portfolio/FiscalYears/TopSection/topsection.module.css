@@ -1,0 +1,12 @@
+.spinner{
+    margin: 0 auto;
+    display: block;
+    position: absolute;
+    z-index: 9999;
+    left: 50%;
+    margin-top: 50px;
+}
+.desc{
+    font-family: calibri;
+    font-size: 17px;
+}

@@ -1,0 +1,71 @@
+.approve{
+    background-color: #00aae0 !important;
+    color: #ffffff !important;
+    font-size: 15px !important;
+    padding: 0 5px !important;
+    line-height: normal !important;
+    margin-right: 5px;
+}
+.reject{
+    background-color: #E53E3E !important;
+    color: #ffffff !important;
+    font-size: 15px !important;
+    
+    line-height: normal !important;
+}
+.caps{
+    text-transform:capitalize !important;
+}
+.tr{
+
+}
+.th{
+    font-family: Inter, sans-serif;
+    font-size: 13px;
+    line-height: 19px;
+    text-transform: capitalize;
+}
+.td{
+    font-family: Inter, sans-serif;
+    font-size: 13px;
+    line-height: 19px;
+    --tw-text-opacity: 1;
+    color: rgb(30 30 30 / var(--tw-text-opacity));
+    text-transform: capitalize;
+}
+.successMessage{
+    background-color: #00aae0;
+    color: #ffffff;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+.contentZindex{
+    top: 25%;
+}
+.contentInfo{
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+    margin: 40px 0px;
+}
+.modelFooter{
+    background-color: transparent;
+    border-top: 2px solid #00aae0;
+}
+.confirmButton{
+    background-color: #00aae0 !important;
+    color: #ffffff !important;
+}
+.edit{
+    color: #1a202c;
+}
+.modelHeader{
+    background-color: rgb(239 239 239);
+}
+.tdBox{
+    white-space: pre-wrap;
+}
+.tdBox a{
+    font-size: 13px;   
+}

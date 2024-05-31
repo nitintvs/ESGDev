@@ -1,0 +1,34 @@
+.verticalAlign{
+    transform: translateY(-50%);
+}
+.modelFooter{
+    background-color: transparent !important;
+}
+.overLay{
+    z-index: 99999 !important;
+}
+.contentZindex{
+    z-index: 999999 !important;
+}
+.mbSelect{
+    margin-bottom: 15px;
+}
+.selectFormLabel{
+    text-transform: capitalize;
+}
+.pButton{
+    width: 36px !important;
+    height: 36px !important;
+    border-radius: 4px !important;
+    text-align: center !important;
+    box-shadow: 0px 3px 8.3px #00a0da5e !important;
+    background: linear-gradient(to right, #00a0da8f, #00a0da) !important;
+    color: #ffffff !important;
+    margin-right: 10px !important;
+}
+.SaveButton{
+    box-shadow: 0px 3px 8.3px #00a0da5e !important;
+    background: linear-gradient(to right, #00a0da8f, #00a0da) !important;
+    color: #ffffff !important;
+    float: right;
+}

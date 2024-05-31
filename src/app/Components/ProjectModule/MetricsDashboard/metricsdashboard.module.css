@@ -1,0 +1,36 @@
+.customHeadingH3{
+    color: #343a40 !important;
+    margin-bottom: 0.75rem !important;
+    text-transform: capitalize !important;
+    font-weight: 500 !important;
+    font-size: 1.125rem !important;
+    margin-top: 20px !important;
+}
+.clearfix{
+    clear: both;
+}
+.teamLink{
+    color: #0056b3 !important;
+}
+.designation{
+    font-size: 12px;
+}
+.selectYear{
+    
+}
+.valign{
+    color: #0056b3 !important;
+    position: relative;
+    transform: translateY(-50%);
+    top: 28px;
+}
+
+.valignNew{
+    color: #000000 !important;
+    position: relative;
+    transform: translateY(-50%);
+    top: 35px;   
+}
+.clearFix{
+    clear: both;
+}

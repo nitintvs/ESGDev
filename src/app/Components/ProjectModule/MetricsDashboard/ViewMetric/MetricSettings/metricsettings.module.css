@@ -1,0 +1,20 @@
+.buttonNew{
+    background-color: #00aae0 !important;
+    color: #ffffff !important;
+}
+.successMessage{
+    background-color: #00a0da;
+    color: #ffffff;
+    padding: 10px 10px 10px 10px;
+    font-size: 14px;
+}
+
+.topcontainer{
+  display: flex !important;
+  justify-content: space-between;
+}
+
+.metricFont {
+  font-size: 14px !important;
+  /* white-space: nowrap; */
+}

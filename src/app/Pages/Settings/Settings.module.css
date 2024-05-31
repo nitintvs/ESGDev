@@ -1,0 +1,60 @@
+.dragDrop{
+    border: 1px solid #000000;
+    border-color: var(--chakra-colors-chakra-border-color);
+    border-radius: 5px;
+    padding: 10px;
+    max-width: 100px;
+    overflow: hidden;
+}
+.logoUpload{
+    position: absolute !important;
+    width: 80px !important;
+    height: 80px !important;
+    padding: 0 !important;
+    opacity: 0 !important;
+}
+.editContainer{
+    display: none;
+}
+.uploadFileCont:hover .editContainer{
+    display: block;
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    text-align: center;
+    background-color: #00000061;
+    color: #ffffff;
+}
+.newText{
+    font-size: 12px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.tabGroup {
+  /* border: 1px solid #e2e8f0; */
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.tabStyle{
+    background-color: transparent !important;
+    color: #4b5563 !important;
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    position: relative;
+    top: 1px;
+    margin: 0 10px;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+.active {
+  color: #00a0da !important;
+  /* background-color: #00aae0 !important; */
+  /* border-color: #ebedf2 #ebedf2 #ffffff !important; */
+  border-bottom: 2px solid #00a0da;
+  /* font-weight: 600 !important; */
+}
+.tabContent{
+    padding: 10px 10px;
+}

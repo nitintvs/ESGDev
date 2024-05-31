@@ -1,0 +1,12 @@
+.modelFooter{
+    border-top: 1px solid #e2e8f0;
+    background-color: #ffffff;
+}
+.confirmButton{
+    background: #00aae0;
+    color: #ffffff;
+}
+.createButton{
+    background-color: #00aae0;
+    color: #ffffff !important;
+}

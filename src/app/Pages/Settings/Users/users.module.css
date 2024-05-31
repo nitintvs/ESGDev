@@ -1,0 +1,13 @@
+.userTableContainer{
+    box-shadow: var(--card-shadow);
+    border-color: var(--card-border-color);
+    float: left;
+    width: 100%;
+}
+.theadTr{
+    background: linear-gradient(to right, #00a0da8f, #00a0da) !important;
+    color: #ffffff;
+}
+.theadTr th{
+    color:  #ffffff !important;
+}

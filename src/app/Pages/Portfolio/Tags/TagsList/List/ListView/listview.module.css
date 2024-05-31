@@ -1,0 +1,54 @@
+.verticalAlign{
+    transform: translateY(-50%);
+}
+.cardHover:hover{
+    background: linear-gradient(250.38deg, rgb(230, 244, 255) 2.39%, rgb(105, 177, 255) 34.42%, rgb(22, 119, 255) 60.95%, rgb(9, 88, 217) 84.83%, rgb(0, 44, 140) 104.37%);
+}
+.deleteYearIcon{
+    position: absolute;
+    right: 0;
+    background-color: #9d58ff;
+    width: 30px;
+    height: 30px;
+    border-radius: 7px;
+    text-align: center;
+    color: #ffffff;
+}
+.customLinkButton{
+    display: block;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+.customLinkButtonEdit{
+    display: block;
+    position: relative;
+    float: left;
+    width: 100%;
+    margin-top: -30px !important;
+}
+.listHeading{
+    font-size: 14px !important;
+    line-height: 21px !important;
+    font-weight: 600 !important;
+    margin-bottom: 20px !important;
+    color: blue;
+
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 2; /* number of lines to show */
+           line-clamp: 2;
+   -webkit-box-orient: vertical;
+}
+.blogImage{
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    max-height: 73.81px;
+}
+.save{
+    background-color: #00a0da !important;
+    color: #ffffff !important;
+    padding: 10px 10px !important;
+    margin-top: 15px !important;
+}

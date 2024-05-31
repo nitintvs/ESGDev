@@ -1,0 +1,67 @@
+.signleBox{
+    overflow: hidden;
+}
+.bold600{
+    font-weight: 600;
+}
+.cardTitle{
+    color: #343a40 !important;
+    margin-bottom: 0.75rem !important;
+    text-transform: capitalize !important;
+    font-weight: 500 !important;
+    font-size: 1.125rem !important;
+    margin-top: 20px !important;
+}
+.cardTitleSub{
+    color: #343a40 !important;
+    margin-bottom: 0.75rem !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+    margin-top: 20px !important;
+}
+.metricTitle{
+    font-family: Inter, sans-serif !important;
+    font-size: 14px !important;
+    line-height: 20px !important;
+    font-weight: 600 !important;
+    max-height: 3.2em;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    min-height: 3.2em;
+    color: #1e1e1e !important;
+}
+
+.newTitle{
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    line-height: 19px !important;
+    margin-bottom: 1rem !important;
+    margin-left: 0.5rem !important;
+    margin-right: 0.5rem !important;
+    text-transform: capitalize !important;
+}
+.commonElementStyle{
+    padding: 0.75rem;
+    border-radius: 0.375rem;
+}
+.commonElementStyle a{
+    outline-color: hsl(203 89.1% 53.1% / 1);
+}
+.customCard{
+    box-shadow: none !important;
+}
+.customHeadingNumber{
+    font-size: 30px !important;
+    line-height: 48px !important;
+    font-weight: 700 !important;
+    overflow-wrap: break-word;
+}
+.customPara{
+    margin-bottom: 0px;
+    white-space: pre-wrap;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+}

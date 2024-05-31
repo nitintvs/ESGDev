@@ -1,0 +1,24 @@
+.invite{
+    background: linear-gradient(to right, #00a0da8f, #00a0da) !important;
+    float: right;
+    color: #ffffff !important;
+}
+.chipsNew{
+    width: 100%;
+}
+.chipsNew ul{
+    width: 100%;
+    border: 1px solid #000000;
+    border-color: inherit;
+    padding: 10px 10px;
+}
+.chipsNew ul li{
+    margin-bottom: 5px;
+}
+.note{
+    font-style: italic;
+    background-color: #87bef8;
+    color: #ffffff;
+    padding: 1px 10px;
+    border-radius: 3px;
+}

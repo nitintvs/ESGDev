@@ -1,0 +1,10 @@
+.right-sidebar .nav-tabs li button{
+    background: transparent !important;
+    border: none;
+    color: hsla(0,0%,100%,.5) !important;
+    font-size: .875rem;
+    padding: 0;
+}
+.right-sidebar .nav-tabs li button.active{
+    color: #fff !important;
+}

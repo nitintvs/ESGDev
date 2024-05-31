@@ -1,0 +1,85 @@
+.signleBox{
+    overflow: hidden;
+}
+.bold600{
+    font-weight: 600;
+}
+.cardTitle{
+    color: #343a40 !important;
+    margin-bottom: 0.75rem !important;
+    text-transform: capitalize !important;
+    font-weight: 500 !important;
+    font-size: 1.125rem !important;
+    margin-top: 20px !important;
+}
+
+
+.customHeadingH3{
+    color: #343a40 !important;
+    margin-bottom: 0.75rem !important;
+    text-transform: capitalize !important;
+    font-weight: 500 !important;
+    font-size: 1.125rem !important;
+    margin-top: 20px !important;
+}
+.clearfix{
+    clear: both;
+}
+.teamLink{
+    color: #0056b3 !important;
+}
+.designation{
+    font-size: 12px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.floaterBox{
+    max-width: 160px;
+    text-align: left;
+}
+.Ctext{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.topContainer{
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: baseline;
+}
+
+.tabGroup {
+  /* border: 1px solid #e2e8f0; */
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.tabStyle {
+  background-color: transparent !important;
+  color: #4b5563 !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  position: relative;
+  top: 1px;
+  margin: 0 10px;
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+.active {
+  /* border: 1px solid #e2e8f0; */
+  /* border-bottom: none; */
+  /* background-color: #00aae0 !important; */
+  color: #00a0da !important;
+  border-bottom: 2px solid #00a0da;
+}
+.tabContent{
+    padding: 10px 10px;
+}
+.clearFix{
+    clear: both;
+}
+
+.dropdownContent{
+  font-size: 14px !important;
+}

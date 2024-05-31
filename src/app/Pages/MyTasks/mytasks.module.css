@@ -1,0 +1,19 @@
+.tabStyle {
+  background-color: transparent;
+  margin: 0 10px 0 0;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  border-radius: 0 !important;
+  background-color: #fff !important;
+}
+.active {
+  font-size: 14px;
+  /* background-color: #00aae0 !important; */
+  border-bottom: 2px solid #00aae0;
+  color: #00aae0 !important;
+  background-color: #fff !important;
+}
+.tabContent {
+  border: 1px solid #f2edf3;
+  padding: 10px;
+}

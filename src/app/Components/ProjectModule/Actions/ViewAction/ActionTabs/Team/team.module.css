@@ -1,0 +1,21 @@
+.info{
+    background-color: #00a0da;
+    color: #ffffff;
+    padding: 5px 5px;
+    font-size: 15px;
+    line-height: 21px;
+}
+.customCardPo{
+    width: 100%;
+    position: relative;
+    top: -39px;
+}
+.deleteCont{
+    position: relative;
+    z-index: 99;
+    float: right;
+}
+.deleteButton{
+    background-color: transparent !important;
+    padding: 0;
+}

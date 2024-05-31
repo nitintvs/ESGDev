@@ -1,0 +1,9 @@
+.emptyChart{
+    background-color: #e7e2e2;
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: Inter, sans-serif !important;
+    cursor: default;
+    text-decoration: none;
+}

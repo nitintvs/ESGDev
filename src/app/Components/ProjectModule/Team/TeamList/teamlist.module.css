@@ -1,0 +1,14 @@
+.customCardPo{
+    width: 100%;
+    position: relative;
+    top: -39px;
+}
+.deleteCont{
+    position: relative;
+    z-index: 99;
+    float: right;
+}
+.deleteButton{
+    background-color: transparent !important;
+    padding: 0;
+}

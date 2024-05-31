@@ -1,0 +1,38 @@
+.sliderButton {
+    border-radius: 20px;
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: underline;
+}
+.sliderButton:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.leftImageBox{
+    padding-right: 0 !important;
+}
+.rightTextBox{
+    text-align: left;    
+    padding: 0;
+}
+.rightTextBox .card-body{
+    padding: 0 !important;
+}
+.leftImageBox img{
+    max-width: 100px;
+}
+.customHeadingH3{
+    color: #343a40;
+    margin-bottom: 0.75rem;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 1.125rem;
+    margin-top: 20px;
+}
+.border1{
+    border: 1px solid #ebedf2 !important;
+}
+.customTitle {
+    font-size: 14px !important;
+    margin-bottom: 0 !important;
+}

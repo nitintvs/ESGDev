@@ -1,0 +1,19 @@
+.sideBarHeading{
+    font-family: Inter, sans-serif !important;
+    font-size: 16px !important;
+    line-height: 20px !important;
+    font-weight: 600 !important;
+}
+.sideBarText{
+    font-family: Inter, sans-serif !important;
+    font-size: 14px !important;
+    line-height: 19px !important;
+}
+.badgeNew{
+    padding: 5px 5px;
+    margin: 3px 3px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: capitalize;
+}

@@ -1,0 +1,33 @@
+.dragDrop{
+    border: 1px solid #000000;
+    border-color: var(--chakra-colors-chakra-border-color);
+    border-radius: 5px;
+    padding: 10px;
+    max-width: 100px;
+    overflow: hidden;
+}
+.logoUpload{
+    position: absolute !important;
+    width: 80px !important;
+    height: 80px !important;
+    padding: 0 !important;
+    opacity: 0 !important;
+}
+.editContainer{
+    display: none;
+}
+.uploadFileCont:hover .editContainer{
+    display: block;
+    position: absolute;
+    width: 77px;
+    height: 77px;
+    text-align: center;
+    background-color: #00000061;
+    color: #ffffff;
+}
+.newText{
+    font-size: 12px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}

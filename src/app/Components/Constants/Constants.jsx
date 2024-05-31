@@ -1,0 +1,1 @@
+const Noresultsfound = "No results found."

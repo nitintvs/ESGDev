@@ -1,0 +1,26 @@
+.verticalAlign{
+    transform: translateY(-50%);
+}
+.modelFooter{
+    background-color: transparent !important;
+}
+.overLay{
+    z-index: 99999 !important;
+}
+.contentZindex{
+    z-index: 999999 !important;
+}
+.sliderTitle{
+    position: relative;
+    width: 100%;
+    background-color: #00000061;
+    text-align: center;
+    margin: 0 auto;
+    padding: 30px 20px;
+    color: #ffffff;
+    font-family: Inter, sans-serif !important;
+    font-size: 30px !important;
+    line-height: 48px;
+    font-weight: 700;
+    height: 100%;
+}
